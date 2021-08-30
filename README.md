@@ -1,6 +1,6 @@
 # Project6-air-quality-prediction
 
-#This is a data science project using python with the main objectvie to use machine learning to predict air quality in a Italy city
+#This is a data science project using python with the main objective to use machine learning to predict air quality in a Italy city
 
 #there is one dataset in this project:
 
